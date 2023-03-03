@@ -11,5 +11,5 @@
 - [Emmet - Zen Coding](https://emmet.io/)
 - [Pico.css](https://picocss.com/)
 
-# Web Sitesi
+### Web Sitesi
 - [Bolumsonusitesi](https://htmlbolumsonu.netlify.app/)
