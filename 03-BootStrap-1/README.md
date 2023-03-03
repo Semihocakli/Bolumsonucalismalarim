@@ -14,4 +14,4 @@ Ek Kaynak:
 - [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk)
 
 Yaptığım Web Sitesi:
--[https://bolumsonu-bs-so.netlify.app/]-(https://bolumsonu-bs-so.netlify.app/)
+- [https://bolumsonu-bs-so.netlify.app/]-(https://bolumsonu-bs-so.netlify.app/)
