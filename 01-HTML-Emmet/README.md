@@ -12,4 +12,4 @@
 - [Pico.css](https://picocss.com/)
 
 # Web Sitesi
--[Bolumsonuhtml](https://htmlbolumsonu.netlify.app/)
+- [Bolumsonusitesi](https://htmlbolumsonu.netlify.app/)
