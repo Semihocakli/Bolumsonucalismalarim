@@ -9,7 +9,7 @@
 <a>: Bağlantılar oluşturmak için kullanılan bir elementtir.
 
 <ul> ve <li>: Listeler oluşturmak için kullanılan elementlerdir.
- <ul> elementi bir sırasız liste oluştururken, <li> elementi her bir listedeki öğeyi belirtir.
+<ul> elementi bir sırasız liste oluştururken, <li> elementi her bir listedeki öğeyi belirtir.
 
 <form>: Kullanıcı girdilerini almak için kullanılan bir elementtir.
 
@@ -22,14 +22,14 @@
 <td>: Tablo hücrelerini belirtmek için kullanılan bir elementtir.
 
 <h1> - <h6>: Başlıklar için kullanılan elementlerdir.
- <h1> en büyük başlığı temsil ederken, <h6> en küçük başlığı temsil eder.
+<h1> en büyük başlığı temsil ederken, <h6> en küçük başlığı temsil eder.
 
 <span>: Belirli bir metin parçası için stil uygulamak veya üzerinde işlem yapmak için kullanılan bir elementtir.
 
 <button>: Tıklanabilir bir düğme oluşturmak için kullanılan bir elementtir.
 
 <select> ve <option>: Kullanıcının seçim yapabileceği bir liste oluşturmak için kullanılan elementlerdir.
- <select> elementi, listedeki tüm seçenekleri belirtirken, <option> elementi her bir seçeneği belirtir.
+<select> elementi, listedeki tüm seçenekleri belirtirken, <option> elementi her bir seçeneği belirtir.
 
 <textarea>: Kullanıcının uzun metin girişi yapabileceği bir alan oluşturmak için kullanılan bir elementtir.
 
