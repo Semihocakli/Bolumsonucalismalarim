@@ -92,3 +92,42 @@ alert: Bu class, sayfada bir bildirim mesajı göstermek için kullanılır. Far
 modal: Bu class, bir açılır pencere veya modül oluşturmak için kullanılır. Bu öğeler genellikle bir form veya daha ayrıntılı bilgi için bir alan sağlarlar.
 
 carousel: Bu class, bir slayt gösterisi oluşturmak için kullanılır. Bu özellik, bir grup resmi veya içeriği yatay olarak kaydırmak için kullanılabilir.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------
+*** BootStrap'de Margin ve Padding özellikleri ve Classlarıyla Çalışma***
+
+mx-auto: Bu sınıf, bir div veya diğer blok elementini yatayda merkezlemek için kullanılır. Bu sınıfı kullanmak için, div'inizi bir container veya row div'inin içine yerleştirmeniz gerekmektedir.
+
+text-center: Bu sınıf, içeriği yatayda merkezlemek için kullanılır. Bu sınıfı kullanmak için, içeriği merkezlemek istediğiniz div'in içine yerleştirin.
+
+justify-content-center: Bu sınıf, Bootstrap'ta bir dizi elementi yatayda merkezlemek için kullanılır. Bu sınıfı kullanmak için, dizinizi bir row div'inin içine yerleştirin ve justify-content-center sınıfını ekleyin.
+
+navbar-nav mx-auto: Bu sınıf, Bootstrap'ta bir navbar'da menü öğelerini yatayda merkezlemek için kullanılır. Bu sınıfı kullanmak için, navbar-nav sınıfını ve mx-auto sınıfını menü öğeleri div'ine ekleyin.
+
+d-flex justify-content-center: Bu sınıf, Bootstrap'ta bir div'in içindeki elementleri yatayda merkezlemek için kullanılır. Bu sınıfı kullanmak için, merkezlemek istediğiniz elementleri bir div'in içine yerleştirin ve bu div'e d-flex ve justify-content-center sınıflarını ekleyin.
+
+align-self-center: Bu sınıf, içeriği yalnızca kendisini dikeyde merkezlemek için kullanılır. Bu sınıfı kullanmak için, içeriği merkezlemek istediğiniz elemente align-self-center sınıfını ekleyin.
+
+flex-wrap: Bu sınıf, içeriği birden fazla satıra bölerek, ekrana sığdırmak için kullanılır. Bu sınıfı kullanmak için, içeriği birden fazla satıra bölerek göstermek istediğiniz div'e d-flex ve flex-wrap sınıflarını ekleyin.
+
+justify-content-around: Bu sınıf, içeriği aralarında boşluk bırakarak yatayda hizalamak için kullanılır. Ancak, justify-content-between sınıfından farklı olarak, elementlerin her iki tarafında da boşluk bırakır. Bu sınıfı kullanmak için, içeriği hizalamak istediğiniz div'e d-flex ve justify-content-around sınıflarını ekleyin.
+
+justify-content-end: Bu sınıf, içeriği yatayda sağa hizalar. Bu sınıfı kullanmak için, içeriği hizalamak istediğiniz div'e d-flex ve justify-content-end sınıflarını ekleyin.
+
+align-items-start: Bu sınıf, içeriği dikeyde yukarıya hizalar. Bu sınıfı kullanmak için, içeriği hizalamak istediğiniz div'e d-flex ve align-items-start sınıflarını ekleyin.
+
+
+
+mx-md-auto: Bu sınıf, yalnızca orta boyutlu veya daha büyük ekranlarda yatayda merkezlemek için kullanılır. mx-lg-auto ve mx-xl-auto gibi sınıflar da mevcuttur. Bu sınıfları kullanmak için, yatayda merkezlemek istediğiniz div'e, boyut sınıfının yanı sıra mx-auto sınıfını da ekleyin.
+
+text-sm-center text-md-right: Bu sınıf, farklı ekran boyutları için farklı hizalamalar belirlemek için kullanılır. Bu örnekte, text-sm-center sınıfı küçük ekranlarda içeriği yatayda merkezlerken, text-md-right sınıfı orta boyutlu veya daha büyük ekranlarda içeriği sağa hizalar.
+
+justify-content-between: Bu sınıf, elementlerin arasında boşluk bırakarak yatayda hizalamak için kullanılır. Bu sınıfı kullanmak için, hizalamak istediğiniz elementleri bir d-flex div'inin içine yerleştirin ve justify-content-between sınıfını ekleyin.
+
+align-items-center: Bu sınıf, içerikleri dikeyde hizalamak için kullanılır. Bu sınıfı kullanmak için, içeriği hizalamak istediğiniz div'in içine yerleştirin ve align-items-center sınıfını ekleyin.
+
+mx-n5: Bu sınıf, içeriği yatayda örtüşecek şekilde hizalamak için kullanılır. Bu sınıfı kullanmak için, içeriği hizalamak istediğiniz div'e mx-n5 sınıfını ekleyin ve içeriğinizi col div'leri içinde yerleştirin.
+
+flex-row-reverse: Bu sınıf, içeriği yatayda ters çevirir ve sağdan sola doğru hizalar. Bu sınıfı kullanmak için, içeriği ters çevirmek istediğiniz div'e d-flex ve flex-row-reverse sınıflarını ekleyin.
+
+mx-auto text-center: Bu sınıf, içeriği hem yatayda hem de dikeyde merkezlemek için kullanılır. Bu sınıfı kullanmak için, içeriği merkezlemek istediğiniz div'e mx-auto ve text-center sınıflarını ekleyin.
