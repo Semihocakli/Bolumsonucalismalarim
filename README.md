@@ -1,6 +1,6 @@
 # Kullanılan Bütün İnternet siteleri:
 
-### Python
+### *Python
 - [Python String Format](https://pyformat.info/)
 - [Online Python Dene](https://replit.com/lm/python3)
 
