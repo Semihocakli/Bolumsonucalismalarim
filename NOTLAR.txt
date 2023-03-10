@@ -49,10 +49,25 @@ Margin, bir HTML elementinin çevresindeki boşluğu ifade eder. Margin, element
 Margin, elementin kenarlarının dışındaki boşluktur ve komşu elementler arasındaki boşluğu belirleyebilir. 
 Margin, bir elementin dış boşluğunu belirleyerek, sayfanın genel düzeni için önemli bir rol oynar.
 
+<div class="container">
+  <div class="row">
+    <div class="col-lg-6 mx-auto my-3">Bu div etrafında üstte ve altta 3 birim, sağda ve solda merkezlenmiş 6 birim boşluk olacak</div>
+  </div>
+</div>
+
+************************************
+
 Padding ise bir HTML elementinin içindeki boşluğu ifade eder.
 Padding, elementin kenarlarından içeri doğru genişleme alanıdır. 
 Padding, elementin içindeki boşlukları belirleyerek, içerik ile kenarlar arasındaki mesafeyi ayarlayabilir. 
 Padding, elementin içeriğine alan sağlayarak, sayfa düzeninin bir parçası olarak kullanılabilir.
+
+<div class="container">
+  <div class="row">
+    <div class="col-lg-6 mx-auto p-5">Bu div içindeki içerik 5 birim içerde kalacak</div>
+  </div>
+</div>
+
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
