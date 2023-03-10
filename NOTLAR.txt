@@ -1,0 +1,79 @@
+***TEMEL HTML ELEMENTLERİ***
+
+<div>: HTML belgelerinde bölümler oluşturmak için kullanılan bir genel amaçlı konteyner elementidir.
+
+<p>: Paragraf oluşturmak için kullanılan bir elementtir.
+
+<img>: Resimlerin görüntülenmesi için kullanılan bir elementtir.
+
+<a>: Bağlantılar oluşturmak için kullanılan bir elementtir.
+
+<ul> ve <li>: Listeler oluşturmak için kullanılan elementlerdir.
+ <ul> elementi bir sırasız liste oluştururken, <li> elementi her bir listedeki öğeyi belirtir.
+
+<form>: Kullanıcı girdilerini almak için kullanılan bir elementtir.
+
+<input>: Formlar içinde kullanıcının girdi yapması için kullanılan bir elementtir.
+
+<table>: Tablolar oluşturmak için kullanılan bir elementtir.
+
+<tr>: Tablo satırlarını belirtmek için kullanılan bir elementtir.
+
+<td>: Tablo hücrelerini belirtmek için kullanılan bir elementtir.
+
+<h1> - <h6>: Başlıklar için kullanılan elementlerdir.
+ <h1> en büyük başlığı temsil ederken, <h6> en küçük başlığı temsil eder.
+
+<span>: Belirli bir metin parçası için stil uygulamak veya üzerinde işlem yapmak için kullanılan bir elementtir.
+
+<button>: Tıklanabilir bir düğme oluşturmak için kullanılan bir elementtir.
+
+<select> ve <option>: Kullanıcının seçim yapabileceği bir liste oluşturmak için kullanılan elementlerdir.
+ <select> elementi, listedeki tüm seçenekleri belirtirken, <option> elementi her bir seçeneği belirtir.
+
+<textarea>: Kullanıcının uzun metin girişi yapabileceği bir alan oluşturmak için kullanılan bir elementtir.
+
+<audio> ve <video>: Ses ve video içeriklerini web sayfasına eklemek için kullanılan elementlerdir.
+
+<header> ve <footer>: Sayfanın başlık ve alt bilgi bölümleri için kullanılan elementlerdir.
+
+<nav>: Sayfanın gezinme menüsü için kullanılan bir elementtir.
+
+<article>: Bağımsız bir içerik parçası için kullanılan bir elementtir.
+
+<aside>: Sayfa içeriğinden farklı bir amaç için kullanılan bir alan oluşturmak için kullanılan bir elementtir.
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+Margin, bir HTML elementinin çevresindeki boşluğu ifade eder. Margin, elementin içeriğinden dışarı doğru genişleme alanıdır.
+Margin, elementin kenarlarının dışındaki boşluktur ve komşu elementler arasındaki boşluğu belirleyebilir. 
+Margin, bir elementin dış boşluğunu belirleyerek, sayfanın genel düzeni için önemli bir rol oynar.
+
+Padding ise bir HTML elementinin içindeki boşluğu ifade eder.
+Padding, elementin kenarlarından içeri doğru genişleme alanıdır. 
+Padding, elementin içindeki boşlukları belirleyerek, içerik ile kenarlar arasındaki mesafeyi ayarlayabilir. 
+Padding, elementin içeriğine alan sağlayarak, sayfa düzeninin bir parçası olarak kullanılabilir.
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+*** BOOTSTRAP CLASSLARI***
+container: İçindeki içeriği merkezlemek ve sayfanın genişliğini sınırlamak için kullanılır.
+
+row: Bootstrap'da, her satır 12 sütuna bölünür ve sütunlar içindeki öğeleri hizalamak için kullanılır.
+
+col: Sütunlar, içindeki öğelerin yatay boşluklarını yönetmek ve sayfayı farklı boyutlarda görüntüleyen kullanıcılara uyacak şekilde ölçeklendirmek için kullanılır.
+Örneğin, col-md-6 bir sütunun, orta boy bir cihazda yarım genişlikte olacağını belirtir.
+
+btn: Bootstrap'un birçok stillendirilmiş düğme seçeneği vardır ve btn classı, bu düğmelerin temel stili için kullanılır.
+
+navbar: Bootstrap'ta bir gezinti çubuğu oluşturmak için navbar classı kullanılır. Bu, sayfanın üst kısmına yerleştirilir ve genellikle sayfanın diğer bölümlerine bağlantılar içerir.
+
+jumbotron: Bu class, bir ana sayfada büyük bir açılır kapanır kutusu oluşturmak için kullanılır. Bu kutu genellikle bir başlık, alt metin ve bir düğme içerir.
+
+card: Bootstrap'ta birçok stilize kart seçeneği vardır ve card classı, bu kartların temel stili için kullanılır.
+
+alert: Bu class, sayfada bir bildirim mesajı göstermek için kullanılır. Farklı renk seçenekleri ile kullanılabilir ve dismissable özelliği, kullanıcının mesajı kapatmasına olanak tanır.
+
+modal: Bu class, bir açılır pencere veya modül oluşturmak için kullanılır. Bu öğeler genellikle bir form veya daha ayrıntılı bilgi için bir alan sağlarlar.
+
+carousel: Bu class, bir slayt gösterisi oluşturmak için kullanılır. Bu özellik, bir grup resmi veya içeriği yatay olarak kaydırmak için kullanılabilir.
